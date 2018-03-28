@@ -1,0 +1,14 @@
+{
+  "name": "better-typescript-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^9.6.0",
+    "typescript": "^2.8.1"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
